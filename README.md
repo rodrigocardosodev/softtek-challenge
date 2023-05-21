@@ -1,4 +1,4 @@
-# Desafio PISMO
+# Desafio SOFTTEK
 
 Esta é uma aplicação que faz parte do processo admissional da **Softtek**, e nesta aplicação iremos criar um sistema de controle de caixa e o relatorio de fluxo diário, semanal e mensal.
 Nela estaremos aplicando a arquitetura hexagonal proposta pelo Alistair Cockburn.
