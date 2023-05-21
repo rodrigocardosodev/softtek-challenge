@@ -49,7 +49,7 @@ Retorno da requisição:
 Corpo da requisição:
 ```json
 {
-    "amount": "123.12",
+    "amount": 123.12,
     "operationType": "credit"
 }
 ```
